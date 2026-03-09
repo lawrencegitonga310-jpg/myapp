@@ -18,3 +18,4 @@ const Firstcomponent = () =>{
 
 //export component
 export default Firstcomponent;
+//refce is the shortcut to create the structure of components
